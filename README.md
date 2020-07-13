@@ -8,7 +8,7 @@ A new Flutter project.
 
 | <img src="https://user-images.githubusercontent.com/65097437/87357208-1ed79f80-c529-11ea-994a-799f311a77cb.jpg" width="250"> | <img src="https://user-images.githubusercontent.com/65097437/87357213-20a16300-c529-11ea-835b-e1a9ee62b355.jpg" width="250"> |
 
-## Getting Started
+## API
 
 CoinAPI.io was used as a cryptocurrencies API to get live data for this app
 
