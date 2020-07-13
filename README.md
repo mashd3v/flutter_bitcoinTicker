@@ -2,15 +2,15 @@
 
 A new Flutter project.
 
+# Images
+
+| <img src="https://user-images.githubusercontent.com/65097437/87357195-1a12eb80-c529-11ea-9814-529f82cb1c62.jpg" width="250"> | <img src="https://user-images.githubusercontent.com/65097437/87357205-1d0ddc00-c529-11ea-8208-caf7a70f96da.jpg" width="250"> |
+
+| <img src="https://user-images.githubusercontent.com/65097437/87357208-1ed79f80-c529-11ea-994a-799f311a77cb.jpg" width="250"> | <img src="https://user-images.githubusercontent.com/65097437/87357213-20a16300-c529-11ea-835b-e1a9ee62b355.jpg" width="250"> |
+
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+CoinAPI.io was used as a cryptocurrencies API to get live data for this app
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For more info visit:
+https://www.coinapi.io/
